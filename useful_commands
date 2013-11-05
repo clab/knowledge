@@ -1,0 +1,1 @@
+Find unique files: awk '!seen[$0]++' < input > output
