@@ -6,7 +6,7 @@
 * purpose: this repository is meant to share knowledge (well, and pieces of information too) which is not suitable for sharing elsewhere, among members of clab. 
 * editing: use the "markdown" format to edit this file. help can be found at http://stackoverflow.com/editing-help . Feel free to create a new file if need be, but make sure to link to it from this one for easy access. [GFL guidelines]  (https://github.com/brendano/gfl_syntax/blob/master/guidelines/guidelines.md) is a good example of a nicely written .md file, just in case you're not familiar with the Markdown script.
 
-## papers for Spring 2014
+## papers for spring 2014
 * structured sparsity
 * 
 
