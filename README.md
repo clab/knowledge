@@ -7,14 +7,14 @@
 * editing: use the "markdown" format to edit this file. help can be found at http://stackoverflow.com/editing-help . Feel free to create a new file if need be, but make sure to link to it from this one for easy access. [GFL guidelines]  (https://github.com/brendano/gfl_syntax/blob/master/guidelines/guidelines.md) is a good example of a nicely written .md file, just in case you're not familiar with the Markdown script.
 
 ## papers for spring 2014
-* structured sparsity
+* 2014-01-21: [Structured Sparsity in Structured Prediction] (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.228.6262&rep=rep1&type=pdf). 2011. A. F. T. Martins, N. A. Smith, P. M. Q. Aguiar, and M. A. T. Figueiredo
 * 
 
 ## papers we recently read
 * 2013-10-22: [Adaptor grammars for learning non-concatenative morphology] (http://aclweb.org/anthology/D/D13/D13-1034.pdf). 2013. Jan Botha and Phil Blunsom. In proc. of EMNLP.
 * 2013-11-26: [Diverse M-Best Solutions in Markov Random Fields] (https://filebox.ece.vt.edu/~dbatra/papers/MBestModes.pdf). 2012. Batra et al. In proc. of Computer Vision–ECCV.
 * 2013-12-03: [A fast and simple algorithm for training neural probabilistic language models] (http://www.stats.ox.ac.uk/~teh/research/compling/MniTeh2012a.pdf). 2012. Mnih and Teh. In proc. of ICML.
-* 2014-01-21: [Structured Sparsity in Structured Prediction] (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.228.6262&rep=rep1&type=pdf). 2011. A. F. T. Martins, N. A. Smith, P. M. Q. Aguiar, and M. A. T. Figueiredo
+
 
 ## computational resources
 
