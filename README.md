@@ -57,16 +57,24 @@ trestle consists of about 10K nodes, each has 32 cores and 64GB of RAM (as well 
 * new: http://www.sdsc.edu/us/resources/trestles/
 
 ## current courses to look out for:
+
 ### nonlinear optimization (18-799)
+
 four sections:
 * Xavier - GHC :: 4307 - Tue, Thu - 09:00AM to 10:20AM
 * Ramakrishnan - GHC :: 4101 - Mon, Wed - 04:30PM to 05:50PM
 * Cai	- GHC :: 4215 - Tue, Thu - 03:00PM to 04:20PM
 * Mengshoel	- INI :: DEC - Tue, Thu - 12:00PM to 01:20PM
 * Sankaranarayanan - BH :: A35 - Tue, Thu - 09:00AM to 10:20AM
+
 http://users.isr.ist.utl.pt/~jxavier/NonlinearOptimization18799-2011.html
+
 ### how to write fast code (18-645) 
+
 Lane; Chong	- BH :: A51 - Mon - 03:30PM to 04:20PM
+
 http://users.ece.cmu.edu/~pueschel/teaching/18-645-CMU-spring08/course.html
+
 ### machine translation (11-731)
+
 http://demo.clab.cs.cmu.edu/sp2014-11731/
