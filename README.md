@@ -56,6 +56,57 @@ trestle consists of about 10K nodes, each has 32 cores and 64GB of RAM (as well 
 * old: https://www.xsede.org/web/guest/sdsc-trestles
 * new: http://www.sdsc.edu/us/resources/trestles/
 
+### stampede
+#### login:
+* create an account at https://portal.xsede.org/
+* send your username to Noah/Chris, they’ll put in the request to add you
+* it takes at least 30 minutes to update a user information
+* ```ssh $USER@stampede.tacc.xsede.org```
+
+#### available resources:
+* $HOME : 5G, backed-up
+* $WORK : 400G, not backed-up, permanent; cdw
+* $SCRATCH : 2PB,  not backed-up, high-speed purged after 30 days; cds
+* Cluster contains 6,400+nodes, with 32G RAM, and 16 nodes with 1TB RAM
+* Max run time (for normal queue): 48h
+
+
+#### queues:
+* available queues: [https://portal.xsede.org/web/xup/tacc-stampede#running-table1](https://portal.xsede.org/web/xup/tacc-stampede#running-table1)
+* to see all queues: showq, showq | grep $USER
+* interactive shell: ```srun -p development -t 0:30:00 -n 32 --pty /bin/bash -l```
+* to run a job: ```sbatch ./DO.run```
+
+DO.run script:
+```
+#!/bin/bash
+#----------------------------------------------------
+# Example SLURM job script to run a job
+# on TACC's Stampede system.
+#----------------------------------------------------
+#SBATCH -J test_job       # Job name
+#SBATCH -o test_job.o%j   # Name of stdout output file(%j expands to jobId)
+#SBATCH -e test_job.o%j   # Name of stderr output file(%j expands to jobId)
+#SBATCH -p normal      # Submit to the 'normal' or 'development' queue
+#SBATCH -N 1              # Total number of nodes requested (16 cores/node)
+#SBATCH -n 1                # Total number of mpi tasks requested
+#SBATCH -t 00:30:00         # Run time (hh:mm:ss) - 0.5 hours
+
+# Run the job
+./job.sh
+```
+* to kill a job:  scancel <jobId>
+
+#### applications:
+* to see all available modules: module spider
+* boost: boost/1.51.0
+* to load required modules, and to install software locally or on cluster - same as in trestles
+
+#### documentation:
+* [https://portal.xsede.org/web/xup/tacc-stampede](https://portal.xsede.org/web/xup/tacc-stampede)
+* man slurm
+* man sbatch
+
 ## current courses to look out for:
 
 ### nonlinear optimization (18-799)
