@@ -73,7 +73,7 @@ trestle consists of about 10K nodes, each has 32 cores and 64GB of RAM (as well 
 
 #### queues:
 * available queues: [https://portal.xsede.org/web/xup/tacc-stampede#running-table1](https://portal.xsede.org/web/xup/tacc-stampede#running-table1)
-* to see all queues: showq, showq | grep $USER
+* to see all queues: ```showq```, ```showq | grep $USER```
 * interactive shell: ```srun -p development -t 0:30:00 -n 32 --pty /bin/bash -l```
 * to run a job: ```sbatch ./DO.run```
 
@@ -95,7 +95,7 @@ DO.run script:
 # Run the job
 ./job.sh
 ```
-* to kill a job:  scancel <jobId>
+* to kill a job:  ```scancel <jobId>```
 
 #### applications:
 * to see all available modules: module spider
