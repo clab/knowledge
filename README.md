@@ -107,6 +107,10 @@ DO.run script:
 * man slurm
 * man sbatch
 
+## hacks
+### linux
+* you can check which processes are using shared memory by running ```losf | grep /run/shm```
+
 ## current courses to look out for:
 
 ### nonlinear optimization (18-799)
