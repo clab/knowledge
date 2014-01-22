@@ -107,9 +107,10 @@ DO.run script:
 * man slurm
 * man sbatch
 
-## hacks
+## useful tools
 ### linux
-* you can check which processes are using shared memory by running ```losf | grep /run/shm```
+* find the total/used/available on various disks and mount points by running ```df -h```
+* check which processes are using shared memory by running ```losf | grep /run/shm```
 
 ## current courses to look out for:
 
