@@ -134,3 +134,32 @@ http://users.ece.cmu.edu/~pueschel/teaching/18-645-CMU-spring08/course.html
 ### machine translation (11-731)
 
 http://demo.clab.cs.cmu.edu/sp2014-11731/
+
+## corpora
+
+### LDC corpora
+
+from:	 Alex Rudnicky Alex.Rudnicky@cs.cmu.edu
+to:	 LTI-faculty-all <lti-faculty-all@cs.cmu.edu>,
+ "lti-students@cs.cmu.edu" <lti-students@cs.cmu.edu>
+date:	 Fri, Jan 24, 2014 at 5:28 PM
+subject:	 LDC holdings at LTI
+
+This is a periodic reminder to all that CMU has a (more-or-less) complete collection of Linguistic Data Consortium (LDC) corpora available to everyone, for educational or research purposes, within the University. Due to licensing the collection is only accessible from CMU IP addresses. Go to http://www.speech.cs.cmu.edu/inner/LDC/LDC/table.html
+ 
+Angela Luck angieb@cs.cmu.edu is the official librarian for the collection. You should contact her for lending and other issues.
+ 
+LDC corpora were originally focused on the needs of the speech community, but over time have come to include materials of interest to the text, video and other communities. Until a few years ago acquisition was directly subsidized by the Speech Group (but available to all). More recently this role has been transferred to the LTI, which assesses ongoing contracts that use LDC corpora to meet the annual dues for our LDC membership (btw, we’re a charter member!). The Speech Group continues to pay for the server on which the data are kept.
+ 
+The collection is not complete. One reason is that in the early days, the LDC allowed members only a fixed number of corpora per year. We acquired only those that were relevant to ongoing projects. If you need one of the missing ones, you should be prepared to maybe contribute the cost from your project.
+ 
+Before disk storage became cheap, we only had CDs of corpora. People borrowed these; not everyone turned them in. This is the other reason some corpora are missing. In many cases we have their name; it’s in the square brackets at the entry of the entry description. Feel free to hunt them down or otherwise vocally bring this issue up in their presence. The end goal is to get the disc(s) back into the collection so that the data are available to all.
+ 
+We have some other corpora in the collection. Most of these are in speech (since that’s nominally my field). If you have corpora that might be of interest to other (believe me, they will be), please feel free to contributes copies to this collection.
+
+### other places to look for corpora already acquired
+allegro:/usr0/corpora/
+allegro:/usr1/corpora/
+allegro:/mal1/corpora/
+allegro:/mal2/corpora/ (largest collection)
+allegro:/cab1/corpora/
