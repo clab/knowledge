@@ -140,9 +140,11 @@ http://demo.clab.cs.cmu.edu/sp2014-11731/
 ### LDC corpora
 
 from:	 Alex Rudnicky Alex.Rudnicky@cs.cmu.edu
-to:	 LTI-faculty-all <lti-faculty-all@cs.cmu.edu>,
- "lti-students@cs.cmu.edu" <lti-students@cs.cmu.edu>
+
+to:	 LTI-faculty-all <lti-faculty-all@cs.cmu.edu>, "lti-students@cs.cmu.edu" <lti-students@cs.cmu.edu>
+
 date:	 Fri, Jan 24, 2014 at 5:28 PM
+
 subject:	 LDC holdings at LTI
 
 This is a periodic reminder to all that CMU has a (more-or-less) complete collection of Linguistic Data Consortium (LDC) corpora available to everyone, for educational or research purposes, within the University. Due to licensing the collection is only accessible from CMU IP addresses. Go to http://www.speech.cs.cmu.edu/inner/LDC/LDC/table.html
@@ -158,8 +160,8 @@ Before disk storage became cheap, we only had CDs of corpora. People borrowed th
 We have some other corpora in the collection. Most of these are in speech (since that’s nominally my field). If you have corpora that might be of interest to other (believe me, they will be), please feel free to contributes copies to this collection.
 
 ### other places to look for corpora already acquired
-allegro:/usr0/corpora/
-allegro:/usr1/corpora/
-allegro:/mal1/corpora/
-allegro:/mal2/corpora/ (largest collection)
-allegro:/cab1/corpora/
+* allegro:/usr0/corpora/
+* allegro:/usr1/corpora/
+* allegro:/mal1/corpora/
+* allegro:/mal2/corpora/ (largest collection)
+* allegro:/cab1/corpora/
