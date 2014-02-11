@@ -1,5 +1,4 @@
 # clab knowledge
-xjdlkfjksdjf
 
 > to know, is to know that you know nothing. that is the meaning of true knowledge. -- socrates
 
@@ -9,7 +8,7 @@ xjdlkfjksdjf
 
 ## papers for spring 2014
 * 2014-01-21: [Structured Sparsity in Structured Prediction] (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.228.6262&rep=rep1&type=pdf). 2011. A. F. T. Martins, N. A. Smith, P. M. Q. Aguiar, and M. A. T. Figueiredo
-* 2014-02-04: [Making Tree Kernels practical for Natural Language Learning] (http://acl.ldc.upenn.edu/E/E06/E06-1015.pdf)
+* 2014-02-04: [Convolution Kernels for Natural Language] (http://books.nips.cc/papers/files/nips14/AA58.pdf)
 
 ## papers we recently read
 * 2013-10-22: [Adaptor grammars for learning non-concatenative morphology] (http://aclweb.org/anthology/D/D13/D13-1034.pdf). 2013. Jan Botha and Phil Blunsom. In proc. of EMNLP.
