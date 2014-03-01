@@ -62,7 +62,8 @@ trestle consists of about 10K nodes, each has 32 cores and 64GB of RAM (as well 
 * create an account at https://portal.xsede.org/
 * send your username to Noah/Chris, they’ll put in the request to add you
 * it takes at least 30 minutes to update a user information
-* ```ssh $USER@stampede.tacc.xsede.org```
+* ssh username@login.xsede.org
+* gsissh stampede
 
 #### available resources:
 * $HOME : 5G, backed-up
