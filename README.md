@@ -9,7 +9,9 @@
 ## papers for spring 2014
 * 2014-02-04: [Structured Sparsity in Structured Prediction] (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.228.6262&rep=rep1&type=pdf). 2011. A. F. T. Martins, N. A. Smith, P. M. Q. Aguiar, and M. A. T. Figueiredo
 * 2014-02-11: [Convolution Kernels for Natural Language] (http://books.nips.cc/papers/files/nips14/AA58.pdf). 2002. Michael Collins and Nigel Duffy
-* Large Margin Classification Using the Perceptron Algorithm (http://cseweb.ucsd.edu/~yfreund/papers/LargeMarginsUsingPerceptron.pdf)
+* 2014-03-04: [Large Margin Classification Using the Perceptron Algorithm] (http://cseweb.ucsd.edu/~yfreund/papers/LargeMarginsUsingPerceptron.pdf)
+* 2014-03-18: [Unsupervised Induction of Cross-lingual Semantic Relations]
+(http://aclweb.org/anthology/D/D13/D13-1064.pdf). Lewis and Steedman, 2013. EMNLP.
 
 ## papers we recently read
 * 2013-10-22: [Adaptor grammars for learning non-concatenative morphology] (http://aclweb.org/anthology/D/D13/D13-1034.pdf). 2013. Jan Botha and Phil Blunsom. In proc. of EMNLP.
