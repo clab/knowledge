@@ -12,6 +12,7 @@
 * 2014-03-04: [Large Margin Classification Using the Perceptron Algorithm] (http://cseweb.ucsd.edu/~yfreund/papers/LargeMarginsUsingPerceptron.pdf)
 * 2014-03-18: [Unsupervised Induction of Cross-lingual Semantic Relations]
 (http://aclweb.org/anthology/D/D13/D13-1064.pdf). Lewis and Steedman, 2013. EMNLP.
+* 2014-03-25 [Efﬁcient Inference for Distributions on Permutations] (http://papers.nips.cc/paper/3183-efficient-inference-for-distributions-on-permutations.pdf). Huang, Guestrin and Guibas, 2007. NIPS.
 
 ## papers we recently read
 * 2013-10-22: [Adaptor grammars for learning non-concatenative morphology] (http://aclweb.org/anthology/D/D13/D13-1034.pdf). 2013. Jan Botha and Phil Blunsom. In proc. of EMNLP.
