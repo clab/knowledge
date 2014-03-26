@@ -13,6 +13,7 @@
 * 2014-03-18: [Unsupervised Induction of Cross-lingual Semantic Relations]
 (http://aclweb.org/anthology/D/D13/D13-1064.pdf). Lewis and Steedman, 2013. EMNLP.
 * 2014-03-25 [Efﬁcient Inference for Distributions on Permutations] (http://papers.nips.cc/paper/3183-efficient-inference-for-distributions-on-permutations.pdf). Huang, Guestrin and Guibas, 2007. NIPS.
+* 2014-04-01 [Combining labeled and unlabeled data with co-training] (http://www.u.arizona.edu/~echan3/539/BlumMitchell98.pdf). Blum and Mitchell, 1998. Conference on Computational Learning Theory.
 
 ## papers we recently read
 * 2013-10-22: [Adaptor grammars for learning non-concatenative morphology] (http://aclweb.org/anthology/D/D13/D13-1034.pdf). 2013. Jan Botha and Phil Blunsom. In proc. of EMNLP.
