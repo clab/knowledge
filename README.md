@@ -29,6 +29,7 @@
 ### allegro
 * software packages of general interest should be installed at ```allegro:/opt/tools``` and a modulefile (learn more about Environment Modules [here] (http://modules.sourceforge.net/)) should be added at ```allegro:/opt/modulefiles``` so that other people can find it by executing ```module avail```
 * corpora can be found at ```allegro:/usr1/corpora```, ```allegro:/cab1/corpora```, ```allegro:/mal1/corpora```, or ```allegro:/mal2/corpora```
+* when something goes wrong with allegro, email help@cs.cmu.edu or call SCS Operations at 412-268-2608 (Open 24 x 7)
 
 ### trestles
 #### login:
