@@ -6,6 +6,9 @@
 * purpose: this repository is meant to share knowledge (well, and pieces of information too) which is not suitable for sharing elsewhere, among members of clab. 
 * editing: use the "markdown" format to edit this file. help can be found at http://stackoverflow.com/editing-help . Feel free to create a new file if need be, but make sure to link to it from this one for easy access. [GFL guidelines]  (https://github.com/brendano/gfl_syntax/blob/master/guidelines/guidelines.md) is a good example of a nicely written .md file, just in case you're not familiar with the Markdown script.
 
+## papers for summer reading group 2014
+* 2014-05-22: [Dependency grammar induction via bitext projection constraints] (http://dl.acm.org/citation.cfm?id=1687931) K. Ganchev and J. Gillenwater and B. Taskar, 2009. ACL.
+
 ## papers for spring 2014
 * 2014-02-04: [Structured Sparsity in Structured Prediction] (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.228.6262&rep=rep1&type=pdf). 2011. A. F. T. Martins, N. A. Smith, P. M. Q. Aguiar, and M. A. T. Figueiredo
 * 2014-02-11: [Convolution Kernels for Natural Language] (http://books.nips.cc/papers/files/nips14/AA58.pdf). 2002. Michael Collins and Nigel Duffy
