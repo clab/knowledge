@@ -8,6 +8,7 @@
 
 ## papers for summer reading group 2014
 * 2014-05-22: [Dependency grammar induction via bitext projection constraints] (http://dl.acm.org/citation.cfm?id=1687931) K. Ganchev and J. Gillenwater and B. Taskar, 2009. ACL.
+* 2014-05-29: [Two Step CCA: A new spectral method for estimating vector models of words](http://www.cis.upenn.edu/~ungar/papers/icml12_2step.pdf) Dhillon et al. (Yes, this is monolingual, but yes, we will discuss a multilingual extension)
 
 ## papers for spring 2014
 * 2014-02-04: [Structured Sparsity in Structured Prediction] (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.228.6262&rep=rep1&type=pdf). 2011. A. F. T. Martins, N. A. Smith, P. M. Q. Aguiar, and M. A. T. Figueiredo
