@@ -14,6 +14,7 @@
 * 2014-05-29: [Two Step CCA: A new spectral method for estimating vector models of words](http://www.cis.upenn.edu/~ungar/papers/icml12_2step.pdf) Dhillon et al. (Yes, this is monolingual, but yes, we will discuss a multilingual extension)
 * 2014-06-05: [Syntactic Transfer Using a Bilingual Lexicon] (http://www.eecs.berkeley.edu/~gdurrett/DurPauKle_emnlp12.pdf)  G. Durrett, A. Pauls, and D. Klein. EMNLP'12.
 * 2014-06-12: [Unsupervised Induction of Cross-lingual Semantic Relations] (http://www.aclweb.org/anthology/D13-1064) M. Lewis and M. Steedman. EMNLP'13
+* 2014-06-19: [A New Approach to Lexical Disambiguation of Arabic Text](http://anthology.aclweb.org//D/D10/D10-1071.pdf) R. Shah et al.
 
 ## papers for spring 2014
 * 2014-02-04: [Structured Sparsity in Structured Prediction] (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.228.6262&rep=rep1&type=pdf). 2011. A. F. T. Martins, N. A. Smith, P. M. Q. Aguiar, and M. A. T. Figueiredo
