@@ -15,7 +15,8 @@
 * 2014-06-05: [Syntactic Transfer Using a Bilingual Lexicon] (http://www.eecs.berkeley.edu/~gdurrett/DurPauKle_emnlp12.pdf)  G. Durrett, A. Pauls, and D. Klein. EMNLP'12.
 * 2014-06-12: [Unsupervised Induction of Cross-lingual Semantic Relations] (http://www.aclweb.org/anthology/D13-1064) M. Lewis and M. Steedman. EMNLP'13
 * 2014-06-19: [A New Approach to Lexical Disambiguation of Arabic Text](http://anthology.aclweb.org//D/D10/D10-1071.pdf) R. Shah et al.
-
+* 2014-07-03: [Accurate Language Identification of Twitter Messages](http://www.aclweb.org/anthology/W14-1303) Lui and Baldwin. 
+ 
 ## papers for spring 2014
 * 2014-02-04: [Structured Sparsity in Structured Prediction] (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.228.6262&rep=rep1&type=pdf). 2011. A. F. T. Martins, N. A. Smith, P. M. Q. Aguiar, and M. A. T. Figueiredo
 * 2014-02-11: [Convolution Kernels for Natural Language] (http://books.nips.cc/papers/files/nips14/AA58.pdf). 2002. Michael Collins and Nigel Duffy
