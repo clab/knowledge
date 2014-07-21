@@ -17,6 +17,7 @@
 * 2014-06-19: [A New Approach to Lexical Disambiguation of Arabic Text](http://anthology.aclweb.org//D/D10/D10-1071.pdf) R. Shah et al.
 * 2014-07-03: [Accurate Language Identification of Twitter Messages](http://www.aclweb.org/anthology/W14-1303) Lui and Baldwin. 
 * 2014-07-17: [Empirical Comparison of Features and Tuning for Phrase-based Machine Translation](http://www.statmt.org/wmt14/pdf/W14-3360.pdf) S. Green, D. Cer, and C. Manning
+* 2014-07-24: [Dynamic Topic Adaptation for Phrase-based MT](http://www.aclweb.org/anthology/E/E14/E14-1035.pdf) Hasler, Blunsom, Koehn, and Haddow; [Polylingual Topic Models](http://people.cs.umass.edu/~narad/_papers/mimno09polylingual.pdf) Mimno et al.
 
 ## papers for spring 2014
 * 2014-02-04: [Structured Sparsity in Structured Prediction] (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.228.6262&rep=rep1&type=pdf). 2011. A. F. T. Martins, N. A. Smith, P. M. Q. Aguiar, and M. A. T. Figueiredo
