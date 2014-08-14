@@ -19,6 +19,7 @@
 * 2014-07-17: [Empirical Comparison of Features and Tuning for Phrase-based Machine Translation](http://www.statmt.org/wmt14/pdf/W14-3360.pdf) S. Green, D. Cer, and C. Manning
 * 2014-07-24: [Dynamic Topic Adaptation for Phrase-based MT](http://www.aclweb.org/anthology/E/E14/E14-1035.pdf) Hasler, Blunsom, Koehn, and Haddow; [Polylingual Topic Models](http://people.cs.umass.edu/~narad/_papers/mimno09polylingual.pdf) Mimno et al.
 * 2014-08-14: [Linear Mixture Models for Robust Machine Translation](http://www.statmt.org/wmt14/pdf/W14-3363.pdf) by Marine Carpuat, Cyril Goutte and George Foster
+* 2014-08-21: [Natural Language Processing (Almost) from Scratch] by Collobert et al. The Journal of Machine Learning Research. 2011
 
 ## papers for spring 2014
 * 2014-02-04: [Structured Sparsity in Structured Prediction] (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.228.6262&rep=rep1&type=pdf). 2011. A. F. T. Martins, N. A. Smith, P. M. Q. Aguiar, and M. A. T. Figueiredo
