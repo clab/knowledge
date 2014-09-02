@@ -9,6 +9,10 @@
 ## notes about writing
 * a paper needs to be organized. here are some tricks for looking at the global structure of your paper: read the subject headings in your paper. do they tell the story you want? read the first sentence or two in each section one after the next, does it tell your paper's story? this advice gets more and more important as your paper gets longer.
 
+## papers for fall 2014
+* 2014-09-4: [Reducing the sampling complexity of topic models](http://www.sravi.org/pubs/fastlda-kdd2014.pdf) by Li et al. KDD 2014
+
+
 ## papers for summer reading group 2014
 * 2014-05-22: [Dependency grammar induction via bitext projection constraints] (http://dl.acm.org/citation.cfm?id=1687931) K. Ganchev and J. Gillenwater and B. Taskar, 2009. ACL.
 * 2014-05-29: [Two Step CCA: A new spectral method for estimating vector models of words](http://www.cis.upenn.edu/~ungar/papers/icml12_2step.pdf) Dhillon et al. (Yes, this is monolingual, but yes, we will discuss a multilingual extension)
