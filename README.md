@@ -11,6 +11,7 @@
 
 ## papers for fall 2014
 * 2014-09-4: [Reducing the sampling complexity of topic models](http://www.sravi.org/pubs/fastlda-kdd2014.pdf) by Li et al. KDD 2014
+* 2014-09-11: [Dynamic Topic Adaptation for Phrase-based MT](http://www.aclweb.org/anthology/E/E14/E14-1035.pdf) Hasler, Blunsom, Koehn, and Haddow; [Polylingual Topic Models](http://people.cs.umass.edu/~narad/_papers/mimno09polylingual.pdf) Mimno et al.
 
 
 ## papers for summer reading group 2014
@@ -21,7 +22,6 @@
 * 2014-06-19: [A New Approach to Lexical Disambiguation of Arabic Text](http://anthology.aclweb.org//D/D10/D10-1071.pdf) R. Shah et al.
 * 2014-07-03: [Accurate Language Identification of Twitter Messages](http://www.aclweb.org/anthology/W14-1303) Lui and Baldwin. 
 * 2014-07-17: [Empirical Comparison of Features and Tuning for Phrase-based Machine Translation](http://www.statmt.org/wmt14/pdf/W14-3360.pdf) S. Green, D. Cer, and C. Manning
-* 2014-07-24: [Dynamic Topic Adaptation for Phrase-based MT](http://www.aclweb.org/anthology/E/E14/E14-1035.pdf) Hasler, Blunsom, Koehn, and Haddow; [Polylingual Topic Models](http://people.cs.umass.edu/~narad/_papers/mimno09polylingual.pdf) Mimno et al.
 * 2014-08-14: [Linear Mixture Models for Robust Machine Translation](http://www.statmt.org/wmt14/pdf/W14-3363.pdf) by Marine Carpuat, Cyril Goutte and George Foster
 * 2014-08-21: [Natural Language Processing (Almost) from Scratch](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/35671.pdf) by Collobert et al. The Journal of Machine Learning Research. 2011
 
