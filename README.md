@@ -15,7 +15,10 @@
 ## papers for fall 2014
 * 2014-09-4: [Reducing the sampling complexity of topic models](http://www.sravi.org/pubs/fastlda-kdd2014.pdf) by Li et al. KDD 2014
 * 2014-09-11: [Dynamic Topic Adaptation for Phrase-based MT](http://www.aclweb.org/anthology/E/E14/E14-1035.pdf) Hasler, Blunsom, Koehn, and Haddow; [Polylingual Topic Models](http://people.cs.umass.edu/~narad/_papers/mimno09polylingual.pdf) Mimno et al.
-
+* 2014-10-9: [Climbing the Tower of Babel: Unsupervised Multilingual Learning](http://dspace.mit.edu/handle/1721.1/61698) by B. Snyder, R. Barzilay, ICML'10
+* 2014-11-11: [A Theory of Learning with Similarity Functions](http://link.springer.com/article/10.1007/s10994-008-5059-5) by Balcan, Blum, Srebro. Machine Learning'08
+* 2014-12-4: [Search-Aware Tuning for Machine Translation](http://emnlp2014.org/papers/pdf/EMNLP2014209.pdf) by Lemao Liu, Liang Huang EMNLP'14
+* 2014-12-11: [Domain Adaptation under Target and Conditional Shift](http://machinelearning.wustl.edu/mlpapers/papers/icml2013_zhang13d) by Zhang et al. ICML'13
 
 ## papers for summer reading group 2014
 * 2014-05-22: [Dependency grammar induction via bitext projection constraints] (http://dl.acm.org/citation.cfm?id=1687931) K. Ganchev and J. Gillenwater and B. Taskar, 2009. ACL.
