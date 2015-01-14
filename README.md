@@ -13,6 +13,7 @@
 * [This short list of questions is indispensable.](http://www.design.caltech.edu/erik/Misc/Heilmeier_Questions.html)
 
 ## papers for spring 2015
+* Andrew et al. [Deep Canonical Correlation Analysis](http://ttic.uchicago.edu/~klivescu/papers/andrew_icml2013.pdf)
 * Janez Demsar. [Statistical Comparisons of Classifiers over Multiple Data Sets](http://www.jmlr.org/papers/volume7/demsar06a/demsar06a.pdf)
 
 ## papers for fall 2014
