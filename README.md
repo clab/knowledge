@@ -14,6 +14,7 @@
 
 ## papers for spring 2015
 * 2015-02-06: [Deep Canonical Correlation Analysis](http://ttic.uchicago.edu/~klivescu/papers/andrew_icml2013.pdf) by Andrew et al. ICML 2013
+* 2015-02-21: [Target Language Adaptation of Discriminative Transfer Parsers](http://www.ryanmcd.com/papers/targetNAACL2013.pdf) Täckström, McDonald, Nivre, NAACL'13
 
 ## papers for fall 2014
 * 2014-09-4: [Reducing the sampling complexity of topic models](http://www.sravi.org/pubs/fastlda-kdd2014.pdf) by Li et al. KDD 2014
