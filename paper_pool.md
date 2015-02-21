@@ -7,7 +7,6 @@
 * [Sequence to Sequence Learning with Neural Networks](http://arxiv.org/abs/1409.3215) Sutskever et al. NIPS 2014
 * [Admixture of Poisson MRFs: A Topic Model with Word Dependencies](http://jmlr.org/proceedings/papers/v32/inouye14.pdf) Inouye et al. JMLR 2014
 * [Blossom Trees Graphical Models](http://papers.nips.cc/paper/5316-blossom-tree-graphical-models.pdf) Liu and Lafferty. NIPS 2014
-* [Target Language Adaptation of Discriminative Transfer Parsers](http://www.ryanmcd.com/papers/targetNAACL2013.pdf) Täckström, McDonald, Nivre, NAACL'13
 * [Statistical Comparisons of Classifiers over Multiple Data Sets](http://www.jmlr.org/papers/volume7/demsar06a/demsar06a.pdf) Janez Demsar
 * [A Comparative Study of Parameter Estimation Methods for Statistical Natural Language Processing](https://homes.cs.washington.edu/~galen/files/gao07comparative.pdf) Gao et al., ACL 2007
 * (Spectral) [Learning Mixtures of Linear Classifiers](http://arxiv.org/pdf/1311.2547v4.pdf) Yuekai Sun, Stratis Ioannidis, Andrea Montanari
