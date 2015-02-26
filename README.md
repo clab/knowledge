@@ -13,6 +13,7 @@
 * [This short list of questions is indispensable.](http://www.design.caltech.edu/erik/Misc/Heilmeier_Questions.html)
 
 ## papers for spring 2015
+* TBD. [Towards AI complete question answering: A set of prerequisite toy tasks](http://arxiv.org/pdf/1502.05698v1.pdf) by Weston, Mikolov, Bordes, Chopra.
 * 2015-02-06: [Deep Canonical Correlation Analysis](http://ttic.uchicago.edu/~klivescu/papers/andrew_icml2013.pdf) by Andrew et al. ICML 2013
 * 2015-02-21: [Target Language Adaptation of Discriminative Transfer Parsers](http://www.ryanmcd.com/papers/targetNAACL2013.pdf) Täckström, McDonald, Nivre, NAACL'13
 
