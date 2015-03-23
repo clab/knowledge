@@ -13,3 +13,4 @@
 * [Data point selection for cross-language adaptation of dependency parsers](http://www.aclweb.org/anthology/P11-2120) Anders Sogaard. ACL 2011.
 * [Multi-View Learning of Word Embeddings via CCA](http://papers.nips.cc/paper/4193-multi-view-learning-of-word-embeddings-via-cca.pdf) Paramveer S. Dhillon, Dean Foster, Lyle Ungar. NIPS 2011.
 * [Estimating Latent-Variable Graphical Models using Moments and Likelihoods](http://cs.stanford.edu/~pliang/papers/graphical-icml2014.pdf) Arun Tejasvi Chaganty and Percy Liang. ICML 2014.
+* [Kernel Embeddings of Conditional Distributions](http://www.gatsby.ucl.ac.uk/~gretton/papers/SonFukGre13.pdf) Le Song, Kenji Fukumizu and Arthur Gretton. 2013.
