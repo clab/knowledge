@@ -15,4 +15,4 @@
 * [Estimating Latent-Variable Graphical Models using Moments and Likelihoods](http://cs.stanford.edu/~pliang/papers/graphical-icml2014.pdf) Arun Tejasvi Chaganty and Percy Liang. ICML 2014.
 * [Kernel Embeddings of Conditional Distributions](http://www.gatsby.ucl.ac.uk/~gretton/papers/SonFukGre13.pdf) Le Song, Kenji Fukumizu and Arthur Gretton. 2013.
 * [Trading Convexity for Scalability](http://www.kyb.mpg.de/fileadmin/user_upload/files/publications/attachments/icml_3917%5b0%5d.pdf) Collobert et al. 2006.
-* [](http://arxiv.org/pdf/1412.7119v3.pdf) Baltescu and Blunsom. arXiv 2015.
+* [Pragmatic Neural Language Modelling in Machine Translation](http://arxiv.org/pdf/1412.7119v3.pdf) Baltescu and Blunsom. arXiv 2015.
