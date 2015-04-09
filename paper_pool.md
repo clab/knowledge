@@ -17,3 +17,4 @@
 * [Trading Convexity for Scalability](http://www.kyb.mpg.de/fileadmin/user_upload/files/publications/attachments/icml_3917%5b0%5d.pdf) Collobert et al. 2006.
 * [Pragmatic Neural Language Modelling in Machine Translation](http://arxiv.org/pdf/1412.7119v3.pdf) Baltescu and Blunsom. arXiv 2015.
 * [Learning to Understand Phrases by Embedding the Dictionary](http://arxiv.org/abs/1504.00548) Felix Hill, Kyunghyun Cho, Anna Korhonen, Yoshua Bengio. arXiv 2015.
+* [Efficient Learning using Forward-Backward Splitting](http://papers.nips.cc/paper/3793-efficient-learning-using-forward-backward-splitting) Singer and Duchi. NIPS 2009.
