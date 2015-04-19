@@ -1,4 +1,5 @@
 #paper pool for reading groups:
+* [Multiview LSA: Representation Learning via Generalized CCA] (http://www.cs.jhu.edu/~prastog3/mvlsa/mvlsa.pdf) by Rantogi, Durme and Arora. NAACL 2015.
 * [Learning Distributed Representations for Structured Output Prediction](http://svivek.com/research/publications/SrikumarMa2014.pdf) by Srikumar and Manning. NIPS 2014
 * [Expectation-Maximization for Learning Determinantal Point Processes](http://web.eecs.umich.edu/~kulesza/pubs/em_nips14.pdf) by Gillenwater et al. NIPS 2014
 * [Spectral Learning of Mixture of Hidden Markov Models](http://bariskurt.com/wp-content/uploads/2013/12/mmarkov.pdf) by Subakan et al. NIPS 2014
