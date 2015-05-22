@@ -12,6 +12,14 @@
 ## are you writing a proposal?
 * [This short list of questions is indispensable.](http://www.design.caltech.edu/erik/Misc/Heilmeier_Questions.html)
 
+## papers for summer 2015
+*2015-29-05 Transition-Based Dependency Parsing with Stack Long Short-Term Memory by Chris Dyer, Miguel Ballesteros, Wang Ling, Austin Matthews and Noah Smith. ACL 15 (it is attached in an email that Chris sent to the group on 2015-22-05)
+
+Ideas for papers?
+<a href="http://www.eecs.berkeley.edu/~gdurrett/papers/durrett-klein-tacl2014.pdf">A Joint Model for Entity Analysis: Coreference, Typing, and Linking</a>. Greg Durrett and Dan Klein. TACL
+
+
+
 ## papers for spring 2015
 * TBD. [Towards AI complete question answering: A set of prerequisite toy tasks](http://arxiv.org/pdf/1502.05698v1.pdf) by Weston, Mikolov, Bordes, Chopra.
 * 2015-02-06: [Deep Canonical Correlation Analysis](http://ttic.uchicago.edu/~klivescu/papers/andrew_icml2013.pdf) by Andrew et al. ICML 2013
