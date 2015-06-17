@@ -16,6 +16,8 @@
 * 2015-29-05: Transition-Based Dependency Parsing with Stack Long Short-Term Memory. by Chris Dyer, Miguel Ballesteros, Wang Ling, Austin Matthews and Noah Smith. ACL 15 
 (it is attached in an email that Chris sent to the group on 2015-22-05)
 * 2015-12-06 [A Joint Model for Entity Analysis: Coreference, Typing, and Linking] (http://www.eecs.berkeley.edu/~gdurrett/papers/durrett-klein-tacl2014.pdf) by Greg Durrett and Dan Klein. TACL
+*  2015-19-06 [A Recurrent Latent Variable Model
+for Sequential Data] (http://arxiv.org/abs/1506.02216) by Junyoung Chung, Kyle Kastner, Laurent Dinh, Kratarth Goel, Aaron Courville, Yoshua Bengio. Arxiv.
 
 Ideas for papers?
 
