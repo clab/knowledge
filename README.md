@@ -18,6 +18,7 @@
 * 2015-12-06 [A Joint Model for Entity Analysis: Coreference, Typing, and Linking] (http://www.eecs.berkeley.edu/~gdurrett/papers/durrett-klein-tacl2014.pdf) by Greg Durrett and Dan Klein. TACL
 *  2015-19-06 [A Recurrent Latent Variable Model
 for Sequential Data] (http://arxiv.org/abs/1506.02216) by Junyoung Chung, Kyle Kastner, Laurent Dinh, Kratarth Goel, Aaron Courville, Yoshua Bengio. Arxiv.
+*  2015-26-06 [Generative Adversarial Nets] (http://arxiv.org/pdf/1406.2661v1.pdf) by Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio. Arxiv.
 
 Ideas for papers?
 
