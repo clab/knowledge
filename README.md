@@ -19,6 +19,8 @@
 *  2015-19-06 [A Recurrent Latent Variable Model
 for Sequential Data] (http://arxiv.org/abs/1506.02216) by Junyoung Chung, Kyle Kastner, Laurent Dinh, Kratarth Goel, Aaron Courville, Yoshua Bengio. Arxiv.
 *  2015-26-06 [Generative Adversarial Nets] (http://arxiv.org/pdf/1406.2661v1.pdf) by Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio. Arxiv.
+*  2015-03-07 [Structured Training for Neural Network Transition-Based Parsing] (http://www.petrovi.de/data/acl15.pdf) by David Weiss, Chris Alberti, Michael Collins and Slav Petrov. ACL 2015
+
 
 Ideas for papers?
 
