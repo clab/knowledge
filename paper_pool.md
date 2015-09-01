@@ -19,3 +19,4 @@
 * [Pragmatic Neural Language Modelling in Machine Translation](http://arxiv.org/pdf/1412.7119v3.pdf) Baltescu and Blunsom. arXiv 2015.
 * [Learning to Understand Phrases by Embedding the Dictionary](http://arxiv.org/abs/1504.00548) Felix Hill, Kyunghyun Cho, Anna Korhonen, Yoshua Bengio. arXiv 2015.
 * [Efficient Learning using Forward-Backward Splitting](http://papers.nips.cc/paper/3793-efficient-learning-using-forward-backward-splitting) Singer and Duchi. NIPS 2009.
+* [Efficient BackProp](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf) ([a recent reproduction](http://link.springer.com/chapter/10.1007/978-3-642-35289-8_3)) Yann LeCun, Leon Bottou, Genevieve B. Orr, Klaus-Robert Muller. 1998 then Springer 2012.
