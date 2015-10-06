@@ -21,3 +21,4 @@
 * [Efficient Learning using Forward-Backward Splitting](http://papers.nips.cc/paper/3793-efficient-learning-using-forward-backward-splitting) Singer and Duchi. NIPS 2009.
 * (NN) [Efficient BackProp](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf) ([a recent reproduction](http://link.springer.com/chapter/10.1007/978-3-642-35289-8_3)) Yann LeCun, Leon Bottou, Genevieve B. Orr, Klaus-Robert Muller. 1998 then Springer 2012.
 * (NN) [Gated Softmax Classification](http://www.cs.toronto.edu/~fritz/absps/gatedsoftmax.pdf) Roland Memisevic, Christopher Zach, Geoffrey Hinton and Marc Pollefeys. NIPS 2010.
+* (coref) [Entity-Centric Coreference Resolution with Model Stacking](http://nlp.stanford.edu/pubs/clark-manning-acl15-entity.pdf) Kevin Clark and Chris Manning. ACL 2015.
